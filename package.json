@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "Damian Wiśniewski",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
